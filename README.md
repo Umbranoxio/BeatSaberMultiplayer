@@ -2,6 +2,12 @@
 
 The beat saber multiplayer plugin is in it's extreme beta phase, most bugs have been squashed, but some definitely still do exist.
 
+## Notice
+
+The multiplayer plugin has been disabled until further notice, as I will now be implementing the feature directly into Beat Saber itself (https://twitter.com/BeatSaber/status/1011267998487908353)
+
+Although, keep an eye on this page, as the plugin may be used in the future for potential early closed beta testing
+
 ## Features
 
 * Any user can create a room (password optional) and become a room host
